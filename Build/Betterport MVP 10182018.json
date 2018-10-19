@@ -1,0 +1,14 @@
+{
+"companyName": "WeWork",
+"productName": "Betterport - Designed Space Virtual Tour",
+"dataUrl": "Betterport MVP 10182018.data.unityweb",
+"wasmCodeUrl": "Betterport MVP 10182018.wasm.code.unityweb",
+"wasmFrameworkUrl": "Betterport MVP 10182018.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Betterport MVP 10182018.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
